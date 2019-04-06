@@ -2,6 +2,7 @@
 ## Talk
 | Title | Link | Event | Date | Language | 
 |:------|:-----|:------|:-----|:---------|
+|　https://www.scipyjapan2019.scipy.org/schedule　| coming soon |[SciPy Japan 2019](https://www.scipyjapan2019.scipy.org)| 2019/04/23 | Japanese / English |
 | [ハッカソンプレゼン] 暮らしを診る眼 OheyaObeya 〜 AIで汚部屋を何とかするプロジェクト | [slide](https://bit.ly/2Y6K3eH), [repo](https://github.com/OheyaObeya) |[FFS Hackathon 2018](https://bit.ly/2uqxddx)| 2019/02/28 | Japanese |
 | Interactive Network Visualization using Python 〜 NetworkX + BokehでPEPの参照関係を可視化する | [slide](https://bit.ly/2O4I7kw), [repo](https://github.com/komo-fr/pyconjp_2018_talk) |[PyCon JP 2018](https://pycon.jp/2018/) | 2018/09/17 | Japanese |
 
