@@ -10,6 +10,7 @@
 ## LT
 | Title | Link | Event | Date | Language | 
 |:------|:-----|:------|:-----|:---------|
+| 私がPythonに入学した理由 アイデアを小さくはじめて小さく育てていく方法 | [slide](https://bit.ly/2IvSye4) |[PyLadies Tokyo Meetup #40 Python入学式](https://pyladies-tokyo.connpass.com/event/123097/)| 2019/04/13 | Japanese |
 | NetworkXではじめる情報構造化 たくさんのドキュメントの全体像を俯瞰する | [slide](https://bit.ly/2G1mj6R) |[BPStudy#135〜エンジニアの知的生産術](https://bpstudy.connpass.com/event/104549/)| 2018/11/29 | Japanese |
 | 脈拍と共に振り返るPyConJP 2018 発表当日のFitbitデータを可視化する | [slide](https://komo-fr.github.io/my_talk/20181008_pyladiestokyo/20181008_pyladiestokyo_fitbit.slides.html#/) |[PyLadies Tokyo - 4周年記念パーティ](https://pyladies-tokyo.connpass.com/event/99733/) | 2018/10/08 | Japanese |
 | 入学したあと何をする？ Pythonライブラリの活かし方 | [slide](https://www.slideshare.net/komofr/20180422-py-ladiestokyolt03/komofr/20180422-py-ladiestokyolt03) |[PyLadies Tokyo Meetup #31 Python入学式](https://pyladies-tokyo.connpass.com/event/83376/) | 2018/04/22 | Japanese |
