@@ -11,6 +11,7 @@
 ## LT
 | Title | Link | Event | Date | Language | 
 |:------|:-----|:------|:-----|:---------|
+| データまえしょりすとのpytest入門 | [slide](https://bit.ly/2IdIgi0) | [みんなのPython勉強会#46](https://startpython.connpass.com/event/124251/) | 2019/06/12 | Japanese |
 | ハッカソンで深層学習使って汚部屋警報作った話 @BPLL | [slide](https://bit.ly/2I6E2Yq) | [BPLL #33](https://bpstudy.connpass.com/event/128217/) | 2019/05/14 | Japanese |
 | ハッカソンで深層学習使って汚部屋警報作った話 | [slide](https://bit.ly/30aQ7E9) |JDLA(日本ディープラーニング協会) meetup tokyo #1 | 2019/05/10 | Japanese |
 | 私がPythonに入学した理由 アイデアを小さくはじめて小さく育てていく方法 | [slide](https://bit.ly/2IvSye4) |[PyLadies Tokyo Meetup #40 Python入学式](https://pyladies-tokyo.connpass.com/event/123097/)| 2019/04/13 | Japanese |
