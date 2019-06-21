@@ -2,6 +2,7 @@
 ## Talk
 | Title | Link | Event | Date | Language | 
 |:------|:-----|:------|:-----|:---------|
+| pandasのStyling機能で強化するJupyter実験レポート | - | PyCon JP 2019 | 2019/09 | Japanese |
 | アイデアを小さく始めて、小さく育てていく方法 ～ ハッカソンで深層学習モデルを作って運用するまで　| [slide](https://bit.ly/2WeJMbm) |[PyCon Kyushu in Okinawa 2019](https://kyushu.pycon.jp/2019/)| 2019/05/18 | Japanese |
 | Python入門者の集い ゲスト講演 | [slide](https://bit.ly/2Ezwix6) |[Python入門者の集い](https://python-nyumon.connpass.com/event/113338/)| 2019/05/13 | Japanese |
 | Let's Enjoy the Python World Using Network Analysis ~ Overlooking the                                                reference relationship of PEPs with NetworkX　| [repo](https://github.com/komo-fr/SciPyJapan_2019_talk) |[SciPy Japan 2019](https://www.scipyjapan2019.scipy.org)| 2019/04/23 | Japanese / English |
