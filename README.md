@@ -22,7 +22,7 @@
 | 入学したあと何をする？ Pythonライブラリの活かし方 | [slide](https://www.slideshare.net/komofr/20180422-py-ladiestokyolt03/komofr/20180422-py-ladiestokyolt03) |[PyLadies Tokyo Meetup #31 Python入学式](https://pyladies-tokyo.connpass.com/event/83376/) | 2018/04/22 | Japanese |
 | PyCon JPに触発されて文章自動生成やってみた | 非公開 |[PyLadies Tokyo - 3周年記念パーティ](https://pyladies-tokyo.connpass.com/event/64367/) | 2017/10/15 | Japanese |
 
-## ハンズオン資料
+## Hands-on
 | Title | Link | Event | Date | Language | 
 |:------|:-----|:------|:-----|:---------|
 | SQLユーザーのためのpandas入門 第2部 | [repo](https://github.com/komo-fr/pyladiestokyo_41_pandas), [slide](https://bit.ly/2JEos9o) | [PyLadies Tokyo Meetup #41](https://pyladies-tokyo.connpass.com/event/129156/) | 2019/05/26 | Japanese |
