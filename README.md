@@ -1,4 +1,8 @@
 # My Talk
+- [Talk](https://github.com/komo-fr/my_talk/blob/master/README.md#talk)
+- [LT](https://github.com/komo-fr/my_talk/blob/master/README.md#lt)
+- [Hands-on](https://github.com/komo-fr/my_talk/blob/master/README.md#hands-on)
+- [Article](https://github.com/komo-fr/my_talk/blob/master/README.md#article)
 
 ## Talk
 | Title | Link | Event | Date | Language | 
