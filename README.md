@@ -35,7 +35,7 @@
 ## Article
 | Title | Date | Description | Language | 
 |:------|:-----|:------------| :---------|
-| [【gihyo.jp】 日本の科学技術計算コミュニティが目指すべき姿 ―SciPy Japan 2019レポート](https://gihyo.jp/news/report/01/europython2019/0002) | 2019/8/14 | スイスで開催された[EuroPython 2019](https://ep2019.europython.eu/)の参加レポートに、コラムを寄稿させていただきました([2ページ目](https://gihyo.jp/news/report/01/europython2019/0002?page=2): 「はじめての海外LT参戦で得たもの」) | Japanese |
+| [【gihyo.jp】 ヨーロッパのPythonコミュニティと交流できる3日間「EuroPython 2019」参加レポート](https://gihyo.jp/news/report/01/europython2019/0002) | 2019/8/14 | スイスで開催された[EuroPython 2019](https://ep2019.europython.eu/)の参加レポートに、コラムを寄稿させていただきました([2ページ目](https://gihyo.jp/news/report/01/europython2019/0002?page=2): 「はじめての海外LT参戦で得たもの」) | Japanese |
 | [【gihyo.jp】 日本の科学技術計算コミュニティが目指すべき姿 ―SciPy Japan 2019レポート](https://gihyo.jp/news/report/2019/05/1301) | 2019/5/15 | [SciPy Japan 2019](https://www.scipyjapan2019.scipy.org)での発表を紹介していただきました([3ページ目](https://gihyo.jp/news/report/2019/05/1301?page=3)) | Japanese |
 | [【CodeZine】 PyCon JP 2018 ひろがるPython」登壇者座談会 ～わたしのPythonのひろげかた～](https://codezine.jp/article/detail/11031) | 2018/09/01 | [PyCon JP 2018](https://pycon.jp/2018/)のスピーカーの一人として参加した座談会について、紹介していただきました | Japanese |
 
