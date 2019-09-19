@@ -12,3 +12,5 @@ Same slides deck as LT in [EuroPython 2019](https://ep2019.europython.eu/).
 slides: https://speakerdeck.com/komofr/lets-explore-peps-with-networkx
 
 <img src = "https://github.com/komo-fr/my_talk/blob/master/docs/20190916_pyconjp2019_poster/pyconjp2019_poster.JPG?raw=true" width="50%" alt="PyConJP2019 poster session">
+
+[[full size](https://github.com/komo-fr/my_talk/raw/master/docs/20190916_pyconjp2019_poster/pyconjp2019_poster.JPG?raw=true)]
