@@ -18,6 +18,7 @@
 ## LT
 | Title | Link | Event | Date | Language | 
 |:------|:-----|:------|:-----|:---------|
+| PyPI翻訳プロジェクト速報 | [slide](https://speakerdeck.com/komofr/pyladies-tokyo-lt) | [PyLadies Tokyo - 5周年記念パーティ](https://pyladies-tokyo.connpass.com/event/145046/) | 2019/09/19 | Japanese |
 | Let's Explore PEPs with NetworkX! | [slide](https://speakerdeck.com/komofr/lets-explore-peps-with-networkx) / [video](https://m.youtube.com/watch?v=hgry3vkuI5Y&t=33129s) | [EuroPython 2019](https://ep2019.europython.eu/) @Basel, Switzerland | 2019/07/11 | English |
 | データまえしょりすとのpytest入門 | [slide](https://bit.ly/2IdIgi0) | [みんなのPython勉強会#46](https://startpython.connpass.com/event/124251/) | 2019/06/12 | Japanese |
 | ハッカソンで深層学習使って汚部屋警報作った話 @BPLL | [slide](https://bit.ly/2I6E2Yq) | [BPLL #33](https://bpstudy.connpass.com/event/128217/) | 2019/05/14 | Japanese |
