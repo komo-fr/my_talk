@@ -8,6 +8,7 @@
 ## Talk
 | Title | Link | Event | Date | Language | 
 |:------|:-----|:------|:-----|:---------|
+| NumPy/pandas使いのためのテスト自動化入門 | coming soon | [PyCon JP 2020](https://pycon.jp/2020/) | 2019/08/28 or 29 | Japanese |
 | pandasのStyling機能で強化するJupyter実験レポート | [slide](https://speakerdeck.com/komofr/pyconjp-2019) / [repo](https://github.com/komo-fr/PyConJP2019_pandas_styling) / [video](https://www.youtube.com/watch?v=T8lL9Nb3hMM) | [PyCon JP 2019](https://pycon.jp/2019/) | 2019/09/16 | Japanese |
 | アイデアを小さく始めて、小さく育てていく方法 ～ ハッカソンで深層学習モデルを作って運用するまで　| [slide](https://bit.ly/2WeJMbm) |[PyCon Kyushu in Okinawa 2019](https://kyushu.pycon.jp/2019/)| 2019/05/18 | Japanese |
 | Python入門者の集い ゲスト講演 | [slide](https://bit.ly/2Ezwix6) |[Python入門者の集い](https://python-nyumon.connpass.com/event/113338/)| 2019/05/13 | Japanese |
@@ -18,6 +19,7 @@
 ## LT
 | Title | Link | Event | Date | Language | 
 |:------|:-----|:------|:-----|:---------|
+| ネットワーク解析とテキスト解析で見るPEP | [slide](https://speakerdeck.com/komofr/pycharity) / [repo](https://github.com/komo-fr/PEPCluster) | [Python Charity Talks in Japan](https://pyconjp.connpass.com/event/177586/) | 2020/07/04 | Japanese |
 | PyPI翻訳プロジェクト速報 | [slide](https://speakerdeck.com/komofr/pyladies-tokyo-lt) | [PyLadies Tokyo - 5周年記念パーティ](https://pyladies-tokyo.connpass.com/event/145046/) | 2019/10/19 | Japanese |
 | Let's Explore PEPs with NetworkX! | [slide](https://speakerdeck.com/komofr/lets-explore-peps-with-networkx) / [video](https://m.youtube.com/watch?v=hgry3vkuI5Y&t=33129s) | [EuroPython 2019](https://ep2019.europython.eu/) @Basel, Switzerland | 2019/07/11 | English |
 | データまえしょりすとのpytest入門 | [slide](https://bit.ly/2IdIgi0) | [みんなのPython勉強会#46](https://startpython.connpass.com/event/124251/) | 2019/06/12 | Japanese |
