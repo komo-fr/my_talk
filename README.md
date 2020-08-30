@@ -8,7 +8,7 @@
 ## Talk
 | Title | Link | Event | Date | Language | 
 |:------|:-----|:------|:-----|:---------|
-| NumPy/pandas使いのためのテスト自動化入門 | coming soon | [PyCon JP 2020](https://pycon.jp/2020/) | 2019/08/28 or 29 | Japanese |
+| NumPy/pandas使いのためのテスト自動化入門 | [slide](https://speakerdeck.com/komofr/pyconjp2020) | [PyCon JP 2020](https://pycon.jp/2020/) | 2019/08/29 | Japanese |
 | pandasのStyling機能で強化するJupyter実験レポート | [slide](https://speakerdeck.com/komofr/pyconjp-2019) / [repo](https://github.com/komo-fr/PyConJP2019_pandas_styling) / [video](https://www.youtube.com/watch?v=T8lL9Nb3hMM) | [PyCon JP 2019](https://pycon.jp/2019/) | 2019/09/16 | Japanese |
 | アイデアを小さく始めて、小さく育てていく方法 ～ ハッカソンで深層学習モデルを作って運用するまで　| [slide](https://bit.ly/2WeJMbm) |[PyCon Kyushu in Okinawa 2019](https://kyushu.pycon.jp/2019/)| 2019/05/18 | Japanese |
 | Python入門者の集い ゲスト講演 | [slide](https://bit.ly/2Ezwix6) |[Python入門者の集い](https://python-nyumon.connpass.com/event/113338/)| 2019/05/13 | Japanese |
