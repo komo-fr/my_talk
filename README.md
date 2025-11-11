@@ -1,13 +1,14 @@
-# My Talk
-- [Talk](https://github.com/komo-fr/my_talk/blob/master/README.md#talk)
+# My Talks
+- [Talks](https://github.com/komo-fr/my_talk/blob/master/README.md#talk)
 - [LT](https://github.com/komo-fr/my_talk/blob/master/README.md#lt)
-- [Poster](https://github.com/komo-fr/my_talk/blob/master/README.md#poster)
+- [Posters](https://github.com/komo-fr/my_talk/blob/master/README.md#poster)
 - [Hands-on](https://github.com/komo-fr/my_talk/blob/master/README.md#hands-on)
-- [Article](https://github.com/komo-fr/my_talk/blob/master/README.md#article)
+- [Articles](https://github.com/komo-fr/my_talk/blob/master/README.md#article)
 
-## Talk
+## Talks
 | Title | Link | Event | Date | Language | 
 |:------|:-----|:------|:-----|:---------|
+| 個人ではじめるマルチAIエージェント入門 〜LangChain × LangGraphでアイデアを形にするステップ〜 | [slide](https://speakerdeck.com/komofr/pycon-mini-tokai) / [repo](https://github.com/komo-fr/easy-literature-agents) | [PyCon mini 東海 2025](https://tokai.pycon.jp/2025/) / [発表概要](https://tokai.pycon.jp/2025/#session-talk-2) | 2025/11/08 | Japanese |
 | NumPy/pandas使いのためのテスト自動化入門 | [slide](https://speakerdeck.com/komofr/pyconjp2020) | [PyCon JP 2020](https://pycon.jp/2020/) | 2019/08/29 | Japanese |
 | pandasのStyling機能で強化するJupyter実験レポート | [slide](https://speakerdeck.com/komofr/pyconjp-2019) / [repo](https://github.com/komo-fr/PyConJP2019_pandas_styling) / [video](https://www.youtube.com/watch?v=T8lL9Nb3hMM) | [PyCon JP 2019](https://pycon.jp/2019/) | 2019/09/16 | Japanese |
 | アイデアを小さく始めて、小さく育てていく方法 ～ ハッカソンで深層学習モデルを作って運用するまで　| [slide](https://bit.ly/2WeJMbm) |[PyCon Kyushu in Okinawa 2019](https://kyushu.pycon.jp/2019/)| 2019/05/18 | Japanese |
@@ -31,9 +32,10 @@
 | 入学したあと何をする？ Pythonライブラリの活かし方 | [slide](https://www.slideshare.net/komofr/20180422-py-ladiestokyolt03/komofr/20180422-py-ladiestokyolt03) |[PyLadies Tokyo Meetup #31 Python入学式](https://pyladies-tokyo.connpass.com/event/83376/) | 2018/04/22 | Japanese |
 | PyCon JPに触発されて文章自動生成やってみた | 非公開 |[PyLadies Tokyo - 3周年記念パーティ](https://pyladies-tokyo.connpass.com/event/64367/) | 2017/10/15 | Japanese |
 
-## Poster
+## Posters
 | Title | Link | Event | Date | Language |
 |:------|:-----|:------|:-----|:---------|
+| 「まっすぐ行って、右！」って言ってラズパイカーを動かしたい 〜生成AI × Raspberry Pi Pico × Gradioの試作メモ〜 | [slide](https://speakerdeck.com/komofr/pyconjp2025-poster) / [repo](https://github.com/komo-fr/llm-pico-car) / [demo](https://www.youtube.com/watch?v=glEbEZsswRA) | [PyConJP 2025](https://2025.pycon.jp) / [発表概要](https://2025.pycon.jp/ja/timetable/talk/9CD3UW) | 2025/09/26, 27 | Japanese |
 | Let's Explore PEPs with NetworkX! | [slide & photo](https://github.com/komo-fr/my_talk/tree/master/docs/20190916_pyconjp2019_poster) | [PyConJP 2019](https://pycon.jp/2019) | 2019/09/16, 17 | English |
 
 ## Hands-on
@@ -41,7 +43,7 @@
 |:------|:-----|:------|:-----|:---------|
 | SQLユーザーのためのpandas入門 第2部 | [repo](https://github.com/komo-fr/pyladiestokyo_41_pandas), [slide](https://bit.ly/2JEos9o) | [PyLadies Tokyo Meetup #41](https://pyladies-tokyo.connpass.com/event/129156/) | 2019/05/26 | Japanese |
 
-## Article
+## Articles
 | Title | Date | Description | Language | 
 |:------|:-----|:------------| :---------|
 | [【gihyo.jp】 ヨーロッパのPythonコミュニティと交流できる3日間「EuroPython 2019」参加レポート](https://gihyo.jp/news/report/01/europython2019/0002) | 2019/8/14 | スイスで開催された[EuroPython 2019](https://ep2019.europython.eu/)の参加レポートに、コラムを寄稿させていただきました([2ページ目](https://gihyo.jp/news/report/01/europython2019/0002?page=2): 「はじめての海外LT参戦で得たもの」) | Japanese |
